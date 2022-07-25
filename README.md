@@ -3,3 +3,10 @@
 ### https://www.sosecure.co.th
 
 ## Team Members
+- Chudej Suraboonkul
+- Natwara Archeepsamooth
+- Pawarit Sanguanpang
+- Pirapong Weanum
+- Pongsakorn Eavijikul
+- Thapanarath Khempetch
+- Weeraphat Srisongmuang
